@@ -1,7 +1,7 @@
-package C;
+
 import java.util.Scanner;
 
-public class taskc {
+public class Taskc {
     public static void main (String[] args){
     Scanner s = new Scanner(System.in);
     int a = s.nextInt();
